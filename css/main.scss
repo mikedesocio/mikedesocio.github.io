@@ -1488,6 +1488,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background-image: url('images/FourTroy8422.jpg');
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
